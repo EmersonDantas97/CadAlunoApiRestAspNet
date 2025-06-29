@@ -3,23 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|c:\\users\\emerson\\onedrive\\desktop\\projeto\\cadalunoapirestaspnet\\sistemaacademia\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\sistemaacademia\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|c:\\users\\emerson\\onedrive\\desktop\\projeto\\cadalunoapirestaspnet\\sistemaacademia\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|c:\\users\\emerson\\onedrive\\desktop\\projeto\\cadalunoapirestaspnet\\sistemaacademia\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|c:\\users\\emerson\\onedrive\\desktop\\projeto\\cadalunoapirestaspnet\\sistemaacademia\\repositories\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\repositories\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|c:\\users\\emerson\\onedrive\\desktop\\projeto\\cadalunoapirestaspnet\\sistemaacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\sistemaacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435B568F-4C48-43CB-B788-4BE0C23BED6C}|SistemaAcademia\\SistemaAcademia.csproj|solutionrelative:sistemaacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "SistemaAcademia\\Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "SistemaAcademia\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T21:07:10.103Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Web.config",
+              "RelativeDocumentMoniker": "SistemaAcademia\\Web.config",
+              "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Web.config",
+              "RelativeToolTip": "SistemaAcademia\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-29T19:49:54.357Z",
               "EditorCaption": ""
             },
             {
@@ -53,49 +45,22 @@
               "RelativeDocumentMoniker": "SistemaAcademia\\Utils\\Logger.cs",
               "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Utils\\Logger.cs",
               "RelativeToolTip": "SistemaAcademia\\Utils\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T21:04:40.382Z",
+              "WhenOpened": "2025-06-27T21:31:26.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Configurations\\Config.cs",
-              "RelativeDocumentMoniker": "SistemaAcademia\\Configurations\\Config.cs",
-              "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Configurations\\Config.cs",
-              "RelativeToolTip": "SistemaAcademia\\Configurations\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T21:03:41.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Repositories\\Aluno.cs",
-              "RelativeDocumentMoniker": "SistemaAcademia\\Repositories\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Repositories\\Aluno.cs",
-              "RelativeToolTip": "SistemaAcademia\\Repositories\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T21:03:04.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "SistemaAcademia\\Models\\Aluno.cs",
               "ToolTip": "C:\\Users\\Emerson\\OneDrive\\Desktop\\Projeto\\CadAlunoApiRestAspNet\\SistemaAcademia\\Models\\Aluno.cs",
               "RelativeToolTip": "SistemaAcademia\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:59:46.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:59:46.041Z"
             }
           ]
         },
