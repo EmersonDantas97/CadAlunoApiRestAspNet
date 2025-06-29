@@ -90,6 +90,8 @@
     </Compile>
     <Compile Include="Models\Aluno.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\Aluno.cs" />
+    <Compile Include="Utils\Logger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
