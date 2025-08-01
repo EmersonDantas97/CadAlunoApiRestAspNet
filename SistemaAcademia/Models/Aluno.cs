@@ -7,7 +7,7 @@ using System.Web;
 
 namespace SistemaAcademia.Models
 {
-    public class Aluno
+    public class Aluno : IAluno
     {
         public int Id { get; set; }
         public string NomeCompleto { get; set; }
